@@ -128,7 +128,7 @@ a {
 
 .footer {
     background-color: #F6F6F6;
-
+    height: 20vh;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-areas: 
@@ -162,7 +162,7 @@ a {
 }
 
 .footerLogo img {
-    height: 30vh;
+    height: 20vh;
 }
 
 .footerMarcas img {
