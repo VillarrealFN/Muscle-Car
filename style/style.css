@@ -124,7 +124,7 @@ a {
 /* Footer */
 
 .footer {
-    margin-top: 4%;
+    margin-top: 2%;
     background-color: #F6F6F6;
     height: 20vh;
     display: grid;
@@ -164,5 +164,6 @@ a {
 }
 
 .footerMarcas img {
+    margin-right: 4%;
     height: 10vh;
 }
