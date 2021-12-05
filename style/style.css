@@ -98,10 +98,6 @@ a {
 
 /* carrusel */
 .ContenedorCarrusel {
-    height: 80vh;
-}
-
-.ContenedorCarrusel {
     height: 100vh;
 }
 
