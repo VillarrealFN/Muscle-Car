@@ -1,0 +1,967 @@
+01:30:20	Silvina Sardella:	Buen dia!!!
+01:30:33	Veronica Apollonio Argentina:	Buen dia a Todos!!
+01:30:56	Andrea Gonzalez:	jajaja
+01:30:59	[Tutor] Matias Bellezze:	tarde
+01:31:00	[TUTOR] Agustin Ammazzagatti:	se pone lindo sass
+01:31:06	Nicolas Luciuk:	QUE AURIS TENES?
+01:31:07	[Tutora] María Clara Molina y Vedia:	Sisi una de las más difíciles
+01:31:12	[Tutora] María Clara Molina y Vedia:	y la primera de la semana que viene
+01:31:16	Andrea Gonzalez:	es difícil sass, menos mal que estuve viendo videos entonces
+01:31:16	Luciano Celentano:	Buen dia !!!
+01:31:16	Juan Manuel Roig Courtis:	Es momento de entrar en pánico?Yo diría que si Ken
+01:31:17	Juan Manuel Roig Courtis:	jajajajajaj
+01:31:21	Santiago Quintas:	- es la clase mas complicada.*se rie
+01:31:25	Lucas Soria:	tengo miedo 😱
+01:31:30	Norman Silva Zeta:	que tu lo digas  Gonza, si me asusto jajaja
+01:31:49	[TUTOR] Agustin Ammazzagatti:	claro, usarlo no es difícil
+01:32:04	Andrea Gonzalez:	qick and painless
+01:32:07	Andrea Gonzalez:	quick
+01:32:13	[Tutora] María Clara Molina y Vedia:	después el curso viene muuucho mas tranqui
+01:32:22	Mauro Lulkin:	odio sass... a veces jajajaja
+01:32:27	[Tutora] Yanina Andregnette:	ajajaj quien no
+01:32:41	[Tutora] Yanina Andregnette:	ajajaj
+01:32:46	[Tutora] Yanina Andregnette:	Hay que reconocer que es util
+01:32:57	[TUTOR] Leandro Martin:	Todo al reves Mauro
+01:33:02	[TUTOR] Agustin Ammazzagatti:	va contra la corriente Mauro
+01:34:13	Mauro Lulkin:	jajajajajajajaa
+01:34:39	Veronica Apollonio Argentina:	siii
+01:34:45	Cecilia Carrucio:	holaaaa..!!
+01:35:23	[Tutora] Victoria Fuceneco:	Hola Ceci!
+01:38:31	Nicolas Luciuk:	los media y sus medidas se usan para sacar algunas cosas de la pagina si no cumple con la medida? no hay forma que se acomode automáticamente? caul seria un buen uso?
+01:40:49	Marco Giacchetta:	3840x2160
+01:43:19	Nicolas Luciuk:	yo todavía no lo entiendo
+01:43:44	Andrea Gonzalez:	yo maso que tampoco
+01:43:49	[Tutora] Yanina Andregnette:	Tienen que pensar en la media query como un css nuevo que hacen desde 0
+01:43:55	[Tutora] Yanina Andregnette:	Dentro de su css de siempre
+01:44:02	[Tutora] Yanina Andregnette:	Y viendo la web en otra medida
+01:44:03	Nicolas Luciuk:	pero cual seria un buen uso?
+01:44:13	Cristian Carignano:	Veo que en muchos casos ya no usan media queries sino que ponen en el class los breakpoints
+01:44:45	Juan Manuel Roig Courtis:	esta bien agregar los sm, md, lg y xl en la misma linea de la clase?
+01:44:51	[Tutora] Yanina Andregnette:	No se bien con que te referis a buen uso Nico
+01:44:54	Mirtha Ortiz:	eso es usabilidad
+01:45:35	[Tutora] Yanina Andregnette:	Pero en las media queries lo que hay que hacer es ir de arriba hacia abajo de nuestro sitio, adaptando cada estructura, achicando la fuente si es necesario, re posicionando cada elemento, etc
+01:45:47	[Tutora] María Clara Molina y Vedia:	Sí Juan! Con bt pasa un montón eso de los distintos tamaños en las clases
+01:45:57	[Tutora] Yanina Andregnette:	Lo que esta en row, colocarlo en columna, por ejemplo
+01:46:10	Nicolas Luciuk:	ahh
+01:46:11	Andrea Gonzalez:	claro, pero hay que escribir todo el código de nuevo en las media queries? Porque yo entendí que no hacia falta y que solo podíamos cambiar lo que necesitabamos
+01:46:14	Juan Manuel Roig Courtis:	Perfecto! Porque el otro dia lo arme de esa manera y tenia duda si estaba bien, si no estaba abusando un poco del query de Bootstrap jjajaja
+01:46:27	[TUTOR] Agustin Ammazzagatti:	no es necesario Andre
+01:46:35	[Tutora] Yanina Andregnette:	No necesariamente es todo el codigo
+01:46:35	[TUTOR] Agustin Ammazzagatti:	depende de las necesidades de tu proyecto
+01:46:38	Nicolas Luciuk:	lleva mucho tiempo entonces
+01:46:41	[Tutora] Yanina Andregnette:	hay cosas que quizás no necesiten cambiar
+01:46:45	[Tutora] Yanina Andregnette:	pero muchas partes si
+01:47:11	[TUTOR] Agustin Ammazzagatti:	hay partes que con bootstrap ya quedan responsive y otras que además requieren medias queries
+01:47:14	[Tutora] Yanina Andregnette:	No tanto, ya tienen su css para orientarse
+01:47:18	Nicolas Luciuk:	claro pero seria cambiar casi todas la estructura para que se vean bien en otras medidas de pantalla
+01:47:28	Martin Egea:	google posiciona mejor las paginas con mobile?
+01:47:29	[Tutora] Yanina Andregnette:	Si, es correcto eso Nico
+01:47:31	[TUTOR] Agustin Ammazzagatti:	si
+01:47:32	[TUTOR] Agustin Ammazzagatti:	Nico
+01:47:43	[Tutora] Yanina Andregnette:	Es como un css nuevo dentro de su css
+01:47:46	Cristian Carignano:	Yo tambien crei que llevaba mucho tiempo, pero la verdad que a la hora de hacerlo me tomo un rato nomas
+01:47:48	[Tutora] Yanina Andregnette:	Pero es mas fácil que el primero
+01:47:54	[Tutor] Matias Bellezze:	Si Martin, pero además ve otras cosas Google
+01:48:05	Nicolas Luciuk:	gracias
+01:48:29	[Tutora] Yanina Andregnette:	De nada!
+01:48:56	Javier Gaitan:	Todo entendido
+01:48:59	[Tutora] Yanina Andregnette:	Siempre ayuda mucho ver webs en celus
+01:49:08	[Tutora] Yanina Andregnette:	Para darnos cuenta como se acomodan usualmente las estructuras
+01:49:10	Cristian Carignano:	Veo caso que directamente en el class colocan los lg/md/sm , luego con mediaquerias quedaría modificar otras cosas como tamaño de fuentes, cambiar de row a col, etc?
+01:49:18	[Tutora] Yanina Andregnette:	chusmear eso nos ayuda
+01:49:40	[TUTOR] Agustin Ammazzagatti:	Si Cris, puede ser el caso ese
+01:50:06	Nicolas Luciuk:	es recomendado hacer uno para desktop y otro para movile o también estaría bueno usarlo todas las medidas de pantalla o con dos esta bien?
+01:50:18	[Tutora] Yanina Andregnette:	3 medidas minimo
+01:50:19	[TUTOR] Agustin Ammazzagatti:	a veces con 2 es suficiente
+01:50:22	[TUTOR] Agustin Ammazzagatti:	pero 3 también
+01:50:24	[Tutor] Matias Bellezze:	Siempre se recomienda celular, Tablet y pc
+01:50:26	[Tutora] Yanina Andregnette:	escritorio que es la que ya tienen, móvil y tablet
+01:50:28	Nicolas Luciuk:	okey gracias
+01:50:33	[Tutor] Matias Bellezze:	Pero podés ponerle más
+01:50:34	[Tutor] Matias Bellezze:	Nunca menos
+01:50:45	[Tutora] Yanina Andregnette:	pueden ponerle una para cada dispositivo que existe jajaj
+01:50:48	[Tutora] Yanina Andregnette:	pero bueno
+01:50:51	[Tutora] Yanina Andregnette:	eso ya es personal
+01:51:10	[Tutora] Yanina Andregnette:	Por lo general se trabaja con medidas estandar
+01:51:12	[Tutor] Matias Bellezze:	Para Nokia 1100
+01:51:42	[Tutora] Yanina Andregnette:	xD
+01:53:04	Cristian Carignano:	eso fue lo que mas me esta mareando, estoy intentando pasar una sección a la grilla de Bootstrap y ufff, se me traba el Paty a cada rato
+01:53:14	Alexis López:	no se si ya lo explicaron, pero....que es gutter? porque no tuve tiempo de leer sobre eso
+01:53:16	Nicolas Luciuk:	en casos recomendas usar grid?
+01:53:49	[Tutora] Yanina Andregnette:	grids se usa cuando el formato que le queres dar a la estructura no se lo podes dar con otra cosa
+01:54:05	[Tutora] Yanina Andregnette:	por ejemplo si queres hacer una galería de imágenes totalmente irregular
+01:54:25	[Tutora] Yanina Andregnette:	todo lo que puedas resolver con flexbox o con box modeling, no necesita grids
+01:54:25	Nicolas Luciuk:	okey
+01:54:29	[Tutora] Yanina Andregnette:	a mi criterio jajaj
+01:54:35	[Tutora] Yanina Andregnette:	hay quienes lo usan para todo
+01:54:37	Nicolas Luciuk:	claro
+01:54:47	[Tutora] Yanina Andregnette:	yo no lo veo necesario
+01:55:32	[Tutora] Yanina Andregnette:	ah pero
+01:55:40	Juan Manuel Roig Courtis:	Con d-flex aplica también las propiedades query de container?
+01:55:41	[Tutora] Yanina Andregnette:	malísimo el responsive de Google ajajaj
+01:55:46	Juan Manuel Roig Courtis:	digo puedo poder md o xl también?
+01:55:49	[Tutora] Yanina Andregnette:	desaparecen las opciones jajaj
+01:56:11	Juan Manuel Roig Courtis:	porque por ejemplo mi nav lo voy a maquetear con d-flex
+01:56:22	Juan Manuel Roig Courtis:	*volvi
+01:56:28	[Tutora] Yanina Andregnette:	Juan la nav les re conviene usar una de bootstrap
+01:56:38	[Tutora] Yanina Andregnette:	porque ya tienen resuelto el tema del menú hamburguesa
+01:56:43	Juan Manuel Roig Courtis:	Siii lo re pensé eso
+01:56:46	Juan Manuel Roig Courtis:	me gusta
+01:56:52	[Tutora] Yanina Andregnette:	Lo podes hacer manualmente igual
+01:56:54	[Tutora] Yanina Andregnette:	pero es mas dificil
+01:56:57	[Tutora] Yanina Andregnette:	y no lo vemos en el curso
+01:57:02	[Tutora] Yanina Andregnette:	pero si googleas, lo encontras
+01:57:08	Marcos Anislado:	media query es solo para scroll horizontal ?
+01:57:29	[Tutor] Matias Bellezze:	Como para scroll horizontal Marcos?
+01:57:35	[Tutora] Yanina Andregnette:	Claro Marcos, es para adaptar la web a pantallas mas chicas, por lo tanto lo que mas vas a hacer es adaptarla para que se pueda ver hacía abajo
+01:57:40	Alexis López:	hay un and que es landscape...que es eso?
+01:57:47	[TUTOR] Agustin Ammazzagatti:	pero porque solo horizontal?
+01:58:03	[Tutora] Yanina Andregnette:	ah entendí que decía vertical
+01:58:03	Marcos Anislado:	Puedo achicar la pantalla en sentido vertical ?
+01:58:19	[Tutora] Yanina Andregnette:	ahhh achicar horizontal decis
+01:58:27	[Tutor] Matias Bellezze:	aaaaa
+01:58:29	[TUTOR] Leandro Martin:	Marcos, Tambien se pueden usar para vertical
+01:58:34	[TUTOR] Agustin Ammazzagatti:	ahora entendí jaja
+01:58:37	[Tutora] Yanina Andregnette:	si, básicamente vas a tirar para abajo todo lo que tenes desparramado en la pantalla
+01:58:38	[Tutora] Yanina Andregnette:	jajaj
+01:58:38	[TUTOR] Agustin Ammazzagatti:	sisi
+02:02:28	Norman Silva Zeta:	yo tenía un cel Huawei el año pasado y me permitía tener la pantalla dividida, osea podía usar 2 apps a la vez
+02:03:24	Norman Silva Zeta:	si
+02:06:48	Ezequiel Eandi:	Y por ejemplo, Bootstrap que usa mobile first, yo no puedo usar max??
+02:07:22	Ezequiel Eandi:	aaah bien bien
+02:08:22	Lucas Soria:	me pasa  que para adaptar con los media, para una sola page son bastante largo los cambios
+02:08:29	Dante Agustin Olmos:	sale desayunar
+02:08:48	Nicolas Luciuk:	que es class prefix?
+02:08:52	[Tutora] Yanina Andregnette:	yo aca estoy firme con el mate
+02:09:20	Lucas Soria:	gracias !!!
+02:09:54	Marcos Anislado:	No hemos visto aun como publicar una URL y que la accesen desde cualquier equipo verdad  ?
+02:10:07	[Tutora] Yanina Andregnette:	Ahora les voy a dejar info complementaria sobre media queries y medidas con las cuales pueden trabajar
+02:10:11	Andrea Gonzalez:	entonces conviene usar los @media que da bootstrap?
+02:10:13	Mirtha Ortiz:	jajaja
+02:10:20	Lucas Soria:	pantallazo azul !
+02:10:41	Lucas Soria:	jajjaj
+02:10:51	Mirtha Ortiz:	error de servidor :')
+02:11:19	Andrea Gonzalez:	dale
+02:12:00	[TUTOR] Agustin Ammazzagatti:	en la clase subid al servidor lo vamos a ver
+02:12:06	[TUTOR] Agustin Ammazzagatti:	subida*
+02:12:50	[Profesor] Gonzalo Manoukian:	:hover
+02:13:27	Mirtha Ortiz:	q random!
+02:13:53	Norman Silva Zeta:	será porque no hay hovers en tablets ni mobile jajaj
+02:14:39	[Tutora] Yanina Andregnette:	Siempre es bueno repasar media queries jajaj
+02:15:32	Lucas Diaz:	como es entonces la pronunciación "over" o "Jover" o "jouver"
+02:15:51	Lucas Soria:	cookies
+02:15:59	Lucas Soria:	?
+02:16:02	[Tutor] Matias Bellezze:	over
+02:16:07	[TUTOR] Agustin Ammazzagatti:	depende si es americano o british jaja
+02:16:09	[Tutora] Yanina Andregnette:	la respuesta esta en su corazon
+02:16:12	Lucas Diaz:	AJAJA
+02:16:15	[Tutor] Matias Bellezze:	ouver
+02:16:16	Norman Silva Zeta:	de london
+02:16:19	Andrea Gonzalez:	la que te habla en el traductor de google, te cuenta
+02:16:35	Lucas Soria:	ahhh
+02:17:01	[Profesor] Gonzalo Manoukian:	https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
+02:17:27	[TUTOR] Leandro Martin:	El mejor sitio para buscar material
+02:17:54	[TUTOR] Agustin Ammazzagatti:	sii
+02:18:42	Mauro Lulkin:	esa y w3school som dios
+02:20:29	Martin Egea:	cursor es pseudoclase?
+02:24:27	Juan Manuel Roig Courtis:	y al focus le podes agregar un transition para que no sea tan brusco el cambio?
+02:25:02	Juan Manuel Roig Courtis:	bello
+02:25:04	Norman Silva Zeta:	que buena
+02:25:08	[Tutor] Matias Bellezze:	magia pura
+02:25:15	Lucas Soria:	jajaj
+02:25:42	Andrea Gonzalez:	active?
+02:26:29	[Tutora] María Clara Molina y Vedia:	Es muy breve como para darle estilos, es casi imperceptible
+02:26:45	Norman Silva Zeta:	ese sería el on press
+02:26:47	Norman Silva Zeta:	cierto=
+02:26:49	Norman Silva Zeta:	?
+02:27:25	Andrea Gonzalez:	ah, nada jaja.
+02:27:29	[Tutora] Yanina Andregnette:	Nunca lo use
+02:27:42	Ivan otta:	debe ser un anti malas desiciones
+02:28:34	Mirtha Ortiz:	jajaja
+02:28:50	Marcos Anislado:	PARA MOVER O ARRASTRA UN OBJETO
+02:29:16	[Tutora] Yanina Andregnette:	Puede ser Marcos
+02:29:39	[TUTOR] Leandro Martin:	Sin dudas el mas usado es hover
+02:29:48	Norman Silva Zeta:	pero el biotón activo y desactivo si sería bueno aplicarlo para los fomrularios o cosas así cierto?
+02:30:09	[Profesor] Gonzalo Manoukian:	disabled
+02:30:31	[TUTOR] Leandro Martin:	Puede ser Norman
+02:31:46	Nicolas Luciuk:	se puede usar con un condicionante para que se active
+02:32:21	[Tutora] Yanina Andregnette:	Por lo general en los botones se usa un hover para que al pasar el cursor cambie de color o algo asi
+02:33:03	[Profesor] Gonzalo Manoukian:	:hover:focus:active ¿?:disabled
+02:33:09	Lucas Soria:	target es para misiles
+02:33:13	Lucas Soria:	?
+02:33:16	[Tutora] Yanina Andregnette:	jajaja
+02:34:14	[TUTOR] Leandro Martin:	Derecho a la casa del creador de grids :P
+02:34:39	Luciano Celentano:	me parece
+02:34:41	Mirtha Ortiz:	5 o 10? :D
+02:34:42	[TUTOR] Agustin Ammazzagatti:	sii
+02:34:45	Andrea Gonzalez:	bien bien
+02:34:46	Cristian Carignano:	11 :20
+02:34:47	Cristian Carignano:	volvemos
+02:34:48	Cristian Carignano:	:D
+02:34:54	Nicolas Luciuk:	y 20
+02:34:54	Pablo Barrios:	10
+02:34:54	[Tutor] Matias Bellezze:	9
+02:34:55	Luciano Celentano:	5
+02:35:00	Cristian Carignano:	gracias <3
+02:35:03	Mirtha Ortiz:	genial!
+02:35:14	Mirtha Ortiz:	go dj!
+02:35:15	Luciano Celentano:	vamos con 5 que sino me enfrio
+02:35:55	[Profesor] Gonzalo Manoukian:	No, no están viendo un reel de Instagram
+02:36:10	Ignacio Martinez Lettini:	jajaajaj
+02:36:19	Oriana Gomez:	jajajjajaj
+02:36:33	Ale Garcia:	que linda canción quien es ?
+02:36:57	[Tutora] Victoria Fuceneco:	Tremenda
+02:38:03	[TUTOR] Leandro Martin:	Beggin - Maneskin
+02:39:17	[TUTOR] Agustin Ammazzagatti:	tremenda la playlist
+02:39:24	[TUTOR] Agustin Ammazzagatti:	los temas que yo escucho jaja
+02:46:09	Alexis López:	gente pasen la plyalist que no recuerdo donde estaba el link jaja
+02:46:55	[TUTOR] Agustin Ammazzagatti:	ahí la busco
+02:46:56	Mauro Lulkin:	funky people
+02:47:02	Mauro Lulkin:	si me corta este tema me mato aca nomas
+02:47:08	[TUTOR] Agustin Ammazzagatti:	https://open.spotify.com/playlist/56E8GOhKIZIptDTtZCam5m?si=554376bcf3da4494
+02:47:16	[TUTOR] Agustin Ammazzagatti:	jajajajaja
+02:47:29	[TUTOR] Agustin Ammazzagatti:	temaso
+02:48:43	Mauro Lulkin:	el profe dice que tiene in imprevisto
+02:48:47	Mauro Lulkin:	ya viene... no desespereis
+02:48:55	Mauro Lulkin:	sino me pongo yo a contar anecdotas divertidas (?)
+02:49:07	Lucas Soria:	jajaja
+02:49:32	Rodolfo José González Gómez:	jajajaja
+02:50:22	Roxana Fontán:	Buenas... consulta, no tuve manera de instalar node 😠
+02:51:00	[TUTOR] Agustin Ammazzagatti:	tranquii
+02:51:04	[TUTOR] Agustin Ammazzagatti:	lo veremos ahora en un ratito
+02:51:17	Andrea Gonzalez:	el profe se habrá quemado hirviendo agua para el te?
+02:51:26	Andrea Gonzalez:	😂
+02:51:35	Lucas Soria:	noooo
+02:51:40	[TUTOR] Agustin Ammazzagatti:	emergencia sanitaria quizás
+02:51:43	Mauro Lulkin:	dicen que esta muy encarinado con grid y le da verguenza volver y admitirlo
+02:51:59	Lucas Soria:	jajajaajaj
+02:52:03	Andrea Gonzalez:	por eso hiciste vos los after de grids?
+02:52:17	Mauro Lulkin:	yo doy grid para boicotear al profe nada mas
+02:52:21	Mirtha Ortiz:	fade out fade in
+02:52:22	[TUTOR] Agustin Ammazzagatti:	nooooo
+02:52:23	[Tutora] Loana Torres:	Uhhhh
+02:52:24	Lucas Soria:	no lpm
+02:52:27	Andrea Gonzalez:	JAJAJAJAJAJA
+02:52:27	Mauro Lulkin:	era verdad que se quemo jajajajaja
+02:52:32	Lucas Soria:	te quedaste dormido con la pava
+02:52:45	[TUTOR] Agustin Ammazzagatti:	JAJAJA
+02:52:48	Juan Manuel Roig Courtis:	noooooooooo
+02:52:50	Ivan otta:	jajajajajaja
+02:52:50	Mauro Lulkin:	y yo vole... es tramboliko
+02:52:53	Lucas Soria:	y volo a la arbolada
+02:52:54	Andrea Gonzalez:	Dio mio
+02:52:55	Norman Silva Zeta:	fue trambóliko
+02:52:57	Pablo Tinunin:	coder, pagate la licencia
+02:52:58	Nicolas Luciuk:	uh re piola
+02:53:08	Mirtha Ortiz:	jajaja
+02:53:08	[TUTOR] Agustin Ammazzagatti:	carpeta médica
+02:53:16	Ale Garcia:	tremendo
+02:54:45	Nicolas Luciuk:	esta subido ese código en slack?
+02:55:12	Juan Manuel Roig Courtis:	con !important
+02:55:13	Cristian Carignano:	con id?
+02:55:14	Ignacio Martinez Lettini:	con una clase?
+02:55:18	Ezequiel Eandi:	darle clase a cada uno menos a uno
+02:57:18	Martin Egea:	first-child al primer hijo
+02:58:24	Pablo Barrios:	eso lo podemos hacer con un ID
+02:58:59	Martin Egea:	sin espacio?
+02:59:15	Martin Egea:	los dos puntos pegados? a la clase
+02:59:35	Andrea Gonzalez:	y te ahorras el ID
+03:00:29	Martin Egea:	y si le das unaclase al ul y lo hhaces desde ahi
+03:01:08	Andrea Gonzalez:	eso iba a decir
+03:01:17	Luiggi Marquez:	le estas diciendo  la clase que tome los ul, no hay solo una? por eso toma todas
+03:01:35	Hugo Rodrigo Sala:	si se lo aplicas al a?
+03:03:07	Nicolás Alejandro Padin Paez:	si probás "ul:first-child a" ?
+03:03:43	Lucas Soria:	si
+03:03:50	[Tutor] Matias Bellezze:	La sirena de que la clase está on fire
+03:04:20	Pablo Tinunin:	la ambulancia que mando coder por la quemadura
+03:04:39	Ale Garcia:	el agua hirviendo ¡
+03:07:47	Norman Silva Zeta:	buena
+03:09:21	Cristian Carignano:	A mi no me jode, cerca de mi casa hay un ruido tambien jaja
+03:09:27	Cristian Carignano:	hago de cuenta que es de aca(?
+03:09:36	Andrea Gonzalez:	yo no escucho pero porque mi balcón da a una avenida
+03:10:05	Pablo Tinunin:	ta bug
+03:10:52	Norman Silva Zeta:	se puede first and last solamente y las del centro sigan en rojo?
+03:11:12	Dante Agustin Olmos:	0
+03:12:17	Juan Manuel Roig Courtis:	not first child, no?
+03:13:13	Andrea Gonzalez:	muy util
+03:13:41	Nicolas Luciuk:	ese código esta subido en slack?
+03:14:15	Cristian Carignano:	Excelente
+03:14:22	Cristian Carignano:	Gracias por los ejemplos jaja
+03:18:16	Cristian Carignano:	con un background en una tabla seria interesante
+03:20:30	[Profesor] Gonzalo Manoukian:	https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
+03:21:39	Nicolas Luciuk:	profe esta subido tu código en slack?
+03:22:09	Nicolas Luciuk:	gracias
+03:22:31	Mauro Lulkin:	profe yo no entendi grid... lo puede explicar todo de vuelta ?
+03:22:46	[TUTOR] Agustin Ammazzagatti:	jajaja
+03:22:46	Mauro Lulkin:	AJJAJAJAJAJAJAJAJA
+03:22:48	[TUTOR] Agustin Ammazzagatti:	agrega tutor
+03:22:52	[TUTOR] Agustin Ammazzagatti:	maurooo
+03:22:53	Lucas Soria:	jajjaja
+03:22:54	[Tutor] Matias Bellezze:	jajajaja
+03:22:54	Oriana Gomez:	jajajajjasj
+03:22:57	[Tutora] Victoria Fuceneco:	*tutores han salido del chat
+03:22:58	[TUTOR] Leandro Martin:	Jajajajja
+03:22:59	Javier Fornari:	Justo iba a pedir lo mismo....
+03:23:00	Andrea Gonzalez:	jajjaa
+03:23:04	Mauro Lulkin:	es que no puedo en la compu esta de mi viejo
+03:23:04	Andrea Gonzalez:	esta de incognito
+03:23:05	Norman Silva Zeta:	AJAJAJA
+03:23:06	Mauro Lulkin:	no se que le pasa
+03:23:18	Mauro Lulkin:	tengo miedo que descubran que estoy aca
+03:23:34	Norman Silva Zeta:	está en incógnito
+03:23:42	Mirtha Ortiz:	si si si
+03:23:48	Florencia Alejandra Hernandez:	sip
+03:23:51	Andrea Gonzalez:	sip
+03:23:52	Rodolfo José González Gómez:	si
+03:23:53	Franco Vogler:	si
+03:23:53	Martin Egea:	lo instale
+03:23:54	Norman Silva Zeta:	si
+03:23:54	Luiggi Marquez:	si
+03:23:54	Ezequiel Eandi:	sisi
+03:23:55	Neldo Croissant:	sip
+03:23:56	Lucas Soria:	si
+03:23:57	Karen Tamae:	Sí
+03:23:58	Roxana Fontán:	NOOOO
+03:23:59	Oriana Gomez:	sisi
+03:24:02	Nicolás Alejandro Padin Paez:	si
+03:24:02	Agustina Alejandra Gómez:	si!
+03:24:03	Mirtha Ortiz:	primer no
+03:24:04	Pablo Barrios:	todo instalado. eso es todo? break?
+03:24:05	Mirtha Ortiz:	jajaja
+03:24:14	Leonardo Calfayan:	pude instalar una version anterior para W7 espero que funcione
+03:24:18	Javier Gaitan:	ahora no esta pero yo lo instale
+03:24:21	Javier Gaitan:	jajaj
+03:24:28	Ivan otta:	yo tambien una version anterior
+03:24:37	Javier Fornari:	Todo instalado. Pero es poco caritativo, no de.
+03:24:47	Norman Silva Zeta:	el npm aún no
+03:24:55	Ivan otta:	en windows 7 no funciona la version q aparece
+03:25:02	Ivan otta:	si necesitan https://www.youtube.com/watch?v=atQpkKzHpyk&t=2s
+03:25:03	[Profesor] Gonzalo Manoukian:	https://nodejs.org/es/
+03:25:27	Leonardo Calfayan:	gracias Ivan
+03:25:36	Ivan otta:	:)
+03:28:35	[TUTOR] Agustin Ammazzagatti:	en la práctica se entenderá mejor jaja
+03:29:47	Mauro Lulkin:	tengan cuidado en el break con el agua hirviendo
+03:29:52	Alexis López:	y para los que tenemos ubuntu?
+03:29:53	Alexis López:	xp
+03:30:10	Alexis López:	me compre una note
+03:30:11	Alexis López:	:3
+03:30:32	Alexis López:	dale
+03:31:11	[Profesor] Gonzalo Manoukian:	node -v
+03:31:32	Cristian Carignano:	Seguro ya lo preguntaron pero no pude escuchar, estoy usando la v16 que es la que dice "para la mayoría" esta bien?
+03:31:42	[TUTOR] Agustin Ammazzagatti:	sisi
+03:31:54	[Profesor] Gonzalo Manoukian:	npm -v
+03:32:10	Nicolas Luciuk:	8.1.4
+03:32:16	Juan Manuel Roig Courtis:	a mi me lo abrió en powrshell
+03:32:18	Juan Manuel Roig Courtis:	jajajajajaja
+03:32:19	Juan Manuel Roig Courtis:	F
+03:32:21	Norman Silva Zeta:	8.1.2
+03:32:25	Martin Egea:	8.1.0
+03:32:26	Luciano Celentano:	en la consola de cmd lo puedo hacer?
+03:32:38	Alexis López:	ya lo instale, se hizo en 2min
+03:32:59	Luciano Celentano:	ahí esta
+03:33:01	Luciano Celentano:	perfecto
+03:34:42	Marcos Anislado:	Se esta instalando y entro a una consola y dice chocolate e instalando phyton
+03:34:48	Lucas Soria:	jajajaj
+03:35:18	[Tutora] Victoria Fuceneco:	si pueden eviten el chocolatey
+03:35:23	Cristian Carignano:	Una pregunta, algo que note, no se si estoy loco, el desafio semanal y complementario de esta semana, son lo mismo o me parece a mi?
+03:35:41	[TUTOR] Agustin Ammazzagatti:	no es lo mismo Cris
+03:35:48	[TUTOR] Agustin Ammazzagatti:	el complementario se aplica a todo el proyecto
+03:35:54	[Tutor] Matias Bellezze:	Vayan afinando y puliendo un poco el proyecto
+03:36:04	Cristian Carignano:	Cual es la dif? Por que agarre las rubricas de los dos y casi no note dif jaja
+03:36:05	Mirtha Ortiz:	\(O.O)/
+03:36:16	Juan Manuel Roig Courtis:	si hacemos landing que tal?
+03:36:43	[Tutor] Matias Bellezze:	Si usan landing, toda la landing más el HTML a parte
+03:37:30	[TUTOR] Leandro Martin:	Como siempre las preentregas si vienen cumpliendo con los desafios estaria casi lista
+03:37:42	Cristian Carignano:	en mi caso tengo un onepage con una pagina extra, entonces cada desafio aplico a todo y se termina volviendo una entrega para desafio semanal, complementario, y proyecto final jaja
+03:37:58	[TUTOR] Agustin Ammazzagatti:	ahh perfecto
+03:37:59	Rebeca Ayelen Torres:	los dos html con bootstrap ?
+03:38:07	Andrea Gonzalez:	claro, me pasa lo mismo Cris
+03:38:12	Karen Tamae:	Same Cristian
+03:38:14	[TUTOR] Agustin Ammazzagatti:	podes elegir Rebeca
+03:38:32	Rebeca Ayelen Torres:	ah gracias4
+03:38:35	[TUTOR] Agustin Ammazzagatti:	flexbox, grid, Bootstrap o combinación
+03:38:47	Rebeca Ayelen Torres:	ah menos mal
+03:39:13	Mirtha Ortiz:	aplicar lo que hemos aprendido y lo que nos acomoda más obvi
+03:39:16	Lucio Caruso Stefanini:	se entrega entonces el link del GitHub no?
+03:39:20	[TUTOR] Agustin Ammazzagatti:	si Lucio
+03:39:24	[TUTOR] Agustin Ammazzagatti:	de ahora en más
+03:39:27	[TUTOR] Agustin Ammazzagatti:	link del repositorio
+03:40:05	[TUTOR] Agustin Ammazzagatti:	así de paso practican commits push etc etc jaja
+03:40:15	Nicolás Alejandro Padin Paez:	lo hacemos sobre el mismo repo donde hicimos la entrega anterior o hacemos un repositorio nuevo para esta entrega?
+03:40:24	[TUTOR] Agustin Ammazzagatti:	sobre el mismo Nico
+03:40:31	Nicolás Alejandro Padin Paez:	genial, gracias
+03:40:37	Andrea Gonzalez:	ah, yo arme distintos
+03:40:39	Andrea Gonzalez:	jaja
+03:40:50	[TUTOR] Agustin Ammazzagatti:	vayan pisando su entrega anterior
+03:40:57	Mirtha Ortiz:	jajaja viene lo fuerte
+03:41:04	Andrea Gonzalez:	Dale Agus
+03:41:10	Andrea Gonzalez:	gracias
+03:41:23	Andrea Gonzalez:	jajajaja
+03:41:27	Mirtha Ortiz:	que tal salida! :)
+03:41:36	[Tutor] Matias Bellezze:	todos bailando
+03:41:47	[Tutor] Matias Bellezze:	🕺
+03:41:48	Andrea Gonzalez:	repasando el video en mi mente
+03:41:56	[Tutor] Matias Bellezze:	🕴️
+03:42:09	Javier Fornari:	Si, repasando el video con la "sirena atrás" :-)
+04:08:56	Cristian Carignano:	el video de fondo jaja
+04:09:00	Cristian Carignano:	"caminar - caminar"
+04:11:36	Alexis López:	le paso algo al profe de nuevo
+04:11:41	Alexis López:	</3
+04:11:46	Alexis López:	aaah no
+04:11:49	Alexis López:	ahi ta
+04:11:50	[TUTOR] Agustin Ammazzagatti:	justo
+04:11:50	Alexis López:	<3
+04:11:56	Cristian Carignano:	ajaja fue un minutin nomas
+04:12:01	Cristian Carignano:	Por favor el furret walk
+04:12:05	Cristian Carignano:	Por que no tiene sonido? :(
+04:12:22	Matias Flores:	gonza para ver si instale bien el node
+04:12:26	[TUTOR] Agustin Ammazzagatti:	nooo jajaja
+04:12:26	Matias Flores:	era solo este código ?
+04:12:27	Cristian Carignano:	~~~~
+04:12:27	Matias Flores:	node -v
+04:12:31	Cristian Carignano:	ca mi nar
+04:12:35	Cristian Carignano:	jaja
+04:13:06	Matias Flores:	npm era ?
+04:13:12	[Profesor] Gonzalo Manoukian:	npm -v
+04:13:15	[TUTOR] Agustin Ammazzagatti:	para la versión de npm si
+04:13:22	[TUTOR] Agustin Ammazzagatti:	y node para node
+04:13:24	Matias Flores:	todo listo
+04:13:27	Matias Flores:	gracias chicos
+04:16:16	[Profesor] Gonzalo Manoukian:	.scss
+04:16:42	[Tutor] Matias Bellezze:	Presten atención!!
+04:16:55	[TUTOR] Agustin Ammazzagatti:	clave
+04:17:00	Santiago Quintas:	ctrl + z xD
+04:17:08	Veronica Apollonio Argentina:	jaja
+04:17:18	Juan Manuel Roig Courtis:	por las dudas pusheo lo ultimo quehice
+04:17:18	Juan Manuel Roig Courtis:	jajajajaj
+04:17:22	[Tutora] Yanina Andregnette:	paso a paso esto, traten de no perderse
+04:17:23	[TUTOR] Agustin Ammazzagatti:	exacto
+04:17:26	[TUTOR] Agustin Ammazzagatti:	eso iba a decir Juan jaja
+04:18:18	Nicolas Luciuk:	como se abre la consola?
+04:18:26	Cristian Carignano:	Acabo de meter una copia manual pre node por las dudas
+04:19:12	[TUTOR] Agustin Ammazzagatti:	crtl + shift + ñ Nico
+04:19:18	[TUTOR] Agustin Ammazzagatti:	o desde el me´nu
+04:19:24	[TUTOR] Agustin Ammazzagatti:	menu
+04:19:32	Nicolas Luciuk:	gracias
+04:19:47	[Tutor] Matias Bellezze:	Sino escribí cmd en el inicio
+04:20:02	[Profesor] Gonzalo Manoukian:	package.json
+04:20:19	Juan Manuel Roig Courtis:	me salto esto npm : El término 'npm' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.En línea: 1 Carácter: 1+ npm init+ ~~~    + CategoryInfo          : ObjectNotFound: (npm:String) [], Com    mandNotFoundException    + FullyQualifiedErrorId : CommandNotFoundException jajajaj
+04:20:31	Nicolas Luciuk:	a mi igual
+04:20:37	Nicolas Luciuk:	noo funciona
+04:20:50	[Tutora] María Clara Molina y Vedia:	si hacen el -v les da un número?
+04:20:59	Juan Manuel Roig Courtis:	desde vscode no
+04:21:11	Juan Manuel Roig Courtis:	desde cmd si
+04:21:21	Cristian Carignano:	desde vs code tampoco me funciona
+04:21:24	[Tutora] María Clara Molina y Vedia:	A veces hay que cerrar el visual primero para que reconozca la instalación de npm
+04:21:41	[Tutora] María Clara Molina y Vedia:	Haganlo desde el cmd y después reinicien y lo hacen tranquilos
+04:21:42	Mirtha Ortiz:	tiene que estar en el repositorio no? si no no funciona no?
+04:21:43	Cristian Carignano:	Por las dudas hice eso, y tampoco
+04:21:57	Dante Agustin Olmos:	se me salió, que código pusieron?
+04:22:02	Dante Agustin Olmos:	después de node -v
+04:22:05	Nicolas Luciuk:	ahí anda
+04:22:12	Nicolas Luciuk:	npm unit y que mas?
+04:22:19	[Profesor] Gonzalo Manoukian:	npm init
+04:22:20	[TUTOR] Agustin Ammazzagatti:	npm init
+04:22:31	[TUTOR] Agustin Ammazzagatti:	por el momento eso
+04:22:32	Cristian Carignano:	desde powershell todo ok
+04:22:44	Pablo Barrios:	npm : El término 'npm' no se reconoce como nombre de un cmdlet,
+04:22:48	[Tutor] Matias Bellezze:	Enter metralla
+04:22:51	Pablo Barrios:	desde vb code
+04:23:04	[Tutora] María Clara Molina y Vedia:	Proba desde la terminal del sistma Pablo, no desde vsc
+04:23:12	Nicolas Luciuk:	package name: (usuario)
+04:23:15	Nicolas Luciuk:	que se pone?
+04:23:17	Juan Manuel Roig Courtis:	ahí va! lo hice desde el cmd
+04:23:20	[Tutora] María Clara Molina y Vedia:	enter Nico
+04:23:25	[TUTOR] Agustin Ammazzagatti:	lo podes dejar en blanco
+04:23:35	[Tutora] María Clara Molina y Vedia:	Enter hasta que te pregunte si está todo bien
+04:23:45	Mirtha Ortiz:	me sale git repository: y nada más :'(
+04:23:54	Mirtha Ortiz:	tiene que decir algo?
+04:23:55	[Tutora] María Clara Molina y Vedia:	Un enter más?
+04:23:56	Pablo Tinunin:	me re perdi jajaja
+04:24:25	Nicolás Alejandro Padin Paez:	si uno no tiene el git al momento de la creación, ¿se puede actualizar el json directamente o hay que borrar y arrancar de 0?
+04:24:27	Cristian Carignano:	Como puedo reinstalar?
+04:24:40	Florencia Alejandra Hernandez:	ay me perdi en por que no es tan recomendable hacerlo desde nuestro repositorio del proyecto original
+04:25:03	[Tutora] María Clara Molina y Vedia:	Porque puede salir algo mal y es mejor que no sea en su pryecto nada mas
+04:25:12	Florencia Alejandra Hernandez:	oki
+04:25:12	Mirtha Ortiz:	pero si empezamos desde otro folder? que no está en git?
+04:25:18	Cristian Carignano:	Creo que lo instale en un lugar que nada que ver, no me salio el json
+04:25:41	[Tutora] María Clara Molina y Vedia:	Arranca otra vez en la carpeta Cristian por las dudas
+04:26:11	Florencia Alejandra Hernandez:	misma duda mirtha
+04:26:40	[Tutora] María Clara Molina y Vedia:	Si la carpeta no está en git no les va a aparecer las líneas de git, nada mas
+04:26:56	[Tutora] María Clara Molina y Vedia:	después pueden incluir git al repo
+04:27:10	Mirtha Ortiz:	ok
+04:27:18	Gonzalo Bazzani:	Para dejarlo todo en blanco y evitar usar tanto el enter se puede poner npm init --y
+04:27:25	Florencia Alejandra Hernandez:	o sea primero puedo hacer todo este proceso sin tener git? y no hay problema?
+04:27:38	[Tutora] María Clara Molina y Vedia:	Exacto Flor
+04:27:43	Florencia Alejandra Hernandez:	Perfecto gracias!
+04:27:48	[Tutora] María Clara Molina y Vedia:	Podes hacerlo Gonza, no hay problema
+04:28:05	Norman Silva Zeta:	todo eso es para crear el sass
+04:28:15	[Tutor] Matias Bellezze:	Si Norman!
+04:29:06	Cristian Carignano:	Ya lo resolvi, se me habia creado desde powershell en la carpeta usuario, tuve que buscarlo, borrarlo, y hacerlo desde la carpeta del proyecto con git bash
+04:29:09	[Tutor] Matias Bellezze:	que grande digimon
+04:29:12	[Profesor] Gonzalo Manoukian:	npm install -D node-sass nodemon
+04:29:31	[Tutora] María Clara Molina y Vedia:	Perfecto Cristian!
+04:29:54	[Tutora] María Clara Molina y Vedia:	Cuidado con los espacios porque tiene que estar así tal cual
+04:30:03	[Tutora] María Clara Molina y Vedia:	si cambian un solo carácter ya falla
+04:30:37	Cristian Carignano:	npm WARN deprecated har-validator@5.1.5: this library is no longer supportednpm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+04:30:45	Cristian Carignano:	Me tiro esos a mi
+04:30:57	[Tutora] María Clara Molina y Vedia:	Si son WARN, no hay problema
+04:31:08	[Tutora] María Clara Molina y Vedia:	Si alguno aparece como ERR y en rojo, ahí sí puede traer problemas
+04:31:20	[Tutora] María Clara Molina y Vedia:	pero mientras sean WARN no debería pasar nada
+04:31:31	[Tutora] Yanina Andregnette:	amarillo amigable, rojo malo :P
+04:31:32	[Tutora] Yanina Andregnette:	jajaj
+04:31:55	Cristian Carignano:	Como puedo pushear sin subir el node_modules?
+04:32:03	[Tutora] María Clara Molina y Vedia:	Ahí lo vamos a ver
+04:32:04	Nicolas Luciuk:	a mi quedo tildada creo la instalación porque se me creo la carpeta pero quedo la consola trabada pero creo que ya esta descargado el 100%
+04:32:05	[TUTOR] Leandro Martin:	Ya lo vamos a ver Cris
+04:32:33	[Tutora] María Clara Molina y Vedia:	Puede tardar unos minutitos, por las dudas esperá un segundo más Nico
+04:32:49	Mirtha Ortiz:	minutazos... en mi caso sigue pensando
+04:32:58	Nicolas FIllon:	Si en Mac me esta tardo un cacho mas
+04:33:10	[Tutora] María Clara Molina y Vedia:	Jjaaj sisi es normal porque son muuuuchos archivos
+04:34:09	[Profesor] Gonzalo Manoukian:	styles.scss
+04:34:20	Mirtha Ortiz:	el hermano S del css :D para acordarme
+04:34:24	Nicolás Alejandro Padin Paez:	los archivos json tienen que estar al mismo nivel del index.html o pueden estar dentro de una carpeta como hacemos con los otros elementos?
+04:34:37	[Tutora] María Clara Molina y Vedia:	Nono, al mismo nivel del index
+04:34:38	[Tutor] Matias Bellezze:	Al nivel del index Nico
+04:34:45	Nicolás Alejandro Padin Paez:	ok, gracias
+04:35:39	Luciano Celentano:	perdido bad
+04:35:42	Lucas Soria:	😵
+04:36:00	Luciano Celentano:	bad.scss
+04:36:03	Mirtha Ortiz:	yo le diría el S y el css para no marearme
+04:36:03	Andrea Gonzalez:	yo estoy escribiendo los pasos y después lo hago sino olvidate
+04:36:11	Florencia Alejandra Hernandez:	esta seria la parte en que si nos equivocamos podemos perder nuestro css?
+04:36:23	[TUTOR] Agustin Ammazzagatti:	en la compilación
+04:36:28	Mauro Lulkin:	hagan siempre un backup por favor!
+04:36:37	Mauro Lulkin:	porque no seria la primer ez que borra ntodo
+04:36:39	[Tutora] María Clara Molina y Vedia:	Sí, Flor
+04:36:44	Florencia Alejandra Hernandez:	Oki
+04:36:52	Andrea Gonzalez:	ya zipie todo jaja
+04:36:53	Nicolas FIllon:	Es como que me lo deja dependiente uno del otro
+04:36:57	[Tutora] María Clara Molina y Vedia:	Al poner a compilar sobre tus estilos creados puede borrar los que tenías antes
+04:36:58	Nicolas FIllon:	En mi ide
+04:38:00	[Tutora] María Clara Molina y Vedia:	Nico, fíjate que creaste el css dentro del scss
+04:38:16	[Tutora] María Clara Molina y Vedia:	Fijate de crear una carpeta que se llame css y ahí creas el archivo
+04:38:53	Dante Agustin Olmos:	lo pasas por aquí al código?
+04:39:09	Cristian Carignano:	hay que poner la ruta correcta
+04:40:18	Cristian Carignano:	Claro re F jaja
+04:41:16	[Profesor] Gonzalo Manoukian:	"scripts": {    "test": "echo \"Error: no test specified\" && exit 1",    "build-css": "node-sass --include-path scss scss/styles.scss css/styles.css",    "watch-css": "nodemon -e scss -x \"npm run build-css\""  },
+04:41:24	Juan Manuel Roig Courtis:	a mi no me hizo la carpeta node_modules
+04:41:27	Juan Manuel Roig Courtis:	F
+04:41:39	[Profesor] Gonzalo Manoukian:	https://docs.google.com/presentation/d/1FHZVgcFaKZGJUf3x5aSgQfMeJ0VxftPoX3VB_294fyQ/edit#slide=id.geddb88c0e9_0_564
+04:42:29	[Profesor] Gonzalo Manoukian:	"build-css": "node-sass --include-path scss scss/styles.scss css/styles.css",    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+04:43:26	Nicolas Luciuk:	me tira en rojo
+04:43:29	Andrea Gonzalez:	no
+04:43:40	Nicolas Luciuk:	es que lo hice de ahi
+04:44:34	Nicolas Luciuk:	me lo subraya en amarillo
+04:44:36	Mirtha Ortiz:	jajaja
+04:44:37	Nicolás Alejandro Padin Paez:	por ahora voy bien
+04:44:43	Marco De La Flor:	todo ok por aca
+04:44:54	Norman Silva Zeta:	yo estoy en la matrix
+04:44:54	Mirtha Ortiz:	rio por no llorar
+04:44:55	Cristian Carignano:	Listo ya lo modifique, hay que ejecutarlo de que forma?
+04:45:22	Pablo Barrios:	tatan tatannnn
+04:45:57	Nicolas Luciuk:	porque me queda subrayado en amarillo?
+04:46:13	[Tutora] María Clara Molina y Vedia:	Qué cosa Nico?
+04:46:23	Nicolas Luciuk:	el código que paso el profe
+04:46:39	[TUTOR] Leandro Martin:	Debe tener algun error Nico
+04:46:40	[Tutora] María Clara Molina y Vedia:	están bien las comas y las comillas?
+04:46:55	Juan Manuel Roig Courtis:	"node-sass" no se reconoce como un comando interno o externo
+04:46:56	Juan Manuel Roig Courtis:	:c
+04:46:59	Marco De La Flor:	no deberías guardar?
+04:47:03	Nicolas Luciuk:	Incorrect type. Expected "string
+04:47:10	Nicolas Luciuk:	eso me tira
+04:47:10	Javier Fornari:	Te falta la , después del 1".
+04:47:23	Cristian Carignano:	No hay forma de que la consola me tome los comandos, no se que onda
+04:47:30	Cristian Carignano:	con bash me deja, todo bien si lo hago de ahi?
+04:47:57	[Tutora] Victoria Fuceneco:	Si Cris
+04:48:01	[Tutora] Victoria Fuceneco:	Funciona perfecto
+04:48:04	[Tutora] Victoria Fuceneco:	Yo lo uso asi
+04:48:24	Nicolas Luciuk:	ahí me funciono
+04:48:54	[Profesor] Gonzalo Manoukian:	npm run watch-css
+04:48:58	Mirtha Ortiz:	a mi me salió 5 vulnerabilities required manual review and could not be updatedcreo que voy a tener que volver a hacer todo
+04:49:12	Nicolas Luciuk:	cual fue el primer comando que pusiste?
+04:49:13	Cristian Carignano:	$ npm run build-cssnpm ERR! code EJSONPARSEnpm ERR! path C:\Proyecto Coder House\Lemuria/package.jsonnpm ERR! JSON.parse Unexpected token "}" (0x7D) in JSON at position 311 while parsing near "...build-css\\\"\"\n  },\n  },\n  \"repository\": {..."npm ERR! JSON.parse Failed to parse JSON data.npm ERR! JSON.parse Note: package.json must be actual JSON, not just JavaScript.npm ERR! A complete log of this run can be found in:npm ERR!     C:\Users\usuario\AppData\Local\npm-cache\_logs\2021-12-04T16_24_00_302Z-debug.log
+04:49:21	Cristian Carignano:	A mi me tiro varios ERR
+04:50:15	Cristian Carignano:	Copie y pegue el de slack
+04:50:17	[Tutora] María Clara Molina y Vedia:	Unexpected token "}" (0x7D) in JSON at position 311 está es la parte importante
+04:50:21	Dante Agustin Olmos:	no vi bien eso de cerrar el watch
+04:50:27	[Tutora] María Clara Molina y Vedia:	fijate que no te haya quedado duplicada una }
+04:50:35	Mirtha Ortiz:	a mi ni me salieron los corchetes ni comillas, me quede después del digimon
+04:50:36	Javier Fornari:	Seguro que le falta la , al final de la líneas "test".
+04:50:37	Nicolas Luciuk:	tengo dos comas en rojo
+04:51:09	[Tutora] María Clara Molina y Vedia:	Si está en rojo, está mal. Puede que haya algo de mas o algo de menos o algún carácter que no es corecto
+04:51:09	Nicolas Luciuk:	listo
+04:51:22	Cristian Carignano:	} Tenia una sobrando, gracias Clari!
+04:51:35	Nicolas Luciuk:	tenia dos llaves con dos comas asi que borre una y listo
+04:51:35	[Tutora] María Clara Molina y Vedia:	:)
+04:51:46	[TUTOR] Agustin Ammazzagatti:	genial
+04:51:51	Juan Manuel Roig Courtis:	a mi me tira C:\Program Files\nodejs\node.exe: bad option: -sass cuando quiero instalar sass
+04:52:04	Juan Manuel Roig Courtis:	es un tema de ruta?
+04:52:12	[Tutora] María Clara Molina y Vedia:	qué comando pusiste antes de ese error?
+04:52:12	[Profesor] Gonzalo Manoukian:	npm install -D node-sass nodemon
+04:52:17	Nicolas Luciuk:	esto es lo ultimo que me aparece  [nodemon] clean exit - waiting for changes before restart
+04:52:19	Mirtha Ortiz:	bueno sigamos de ahí lo vuelvo a hacer, igual veo la clase entera otra vez :')
+04:52:21	Juan Manuel Roig Courtis:	AAAAAAA AHI VA
+04:52:23	Juan Manuel Roig Courtis:	Gracias gonza!
+04:52:25	[Tutora] María Clara Molina y Vedia:	Está perfecto eso Nico!
+04:52:26	Karen Tamae:	A mí me aparece Problems loading reference 'https://json.schemastore.org/package': Unable to load schema from 'https://json.schemastore.org/package': getaddrinfo ENOTFOUND json.schemastore.org.
+04:52:26	Juan Manuel Roig Courtis:	estaba poniendo linea por linea
+04:52:32	Juan Manuel Roig Courtis:	pensé que iba primero npm install -D
+04:52:37	Dante Agustin Olmos:	fíjate que sea la D con la d miniscula hace otra cosa
+04:52:43	Dante Agustin Olmos:	o nqv
+04:53:12	[Profesor] Gonzalo Manoukian:	[nodemon] clean exit - waiting for changes before restart
+04:53:34	[Tutora] María Clara Molina y Vedia:	Cada vez que cierren la consola tienen que volver a compilar antes de empezar a modificar el código
+04:55:45	Cristian Carignano:	Necesitaba ver magia despues del alboroto mental que tuve (?
+04:55:50	[Tutora] María Clara Molina y Vedia:	Y acá lo mismo, una coma de más, un punto y coma donde iban dos puntos o el más mínimo error hace que no compile así que mega atentos en todo lo que escriban
+04:56:00	[TUTOR] Leandro Martin:	Its Magic
+04:56:01	Pablo Barrios:	👍
+04:56:02	Nicolas Luciuk:	para que sirve en términos generales?
+04:56:27	Pablo Barrios:	próximo sábado dijiste??
+04:56:34	Cristian Carignano:	hay break?
+04:56:35	Cristian Carignano:	jaja
+04:56:35	Tiago Solis:	WoW
+04:56:44	Pablo Barrios:	break ?
+04:57:22	[Tutora] Victoria Fuceneco:	ctrl c para parar la consola
+04:57:23	Cristian Carignano:	al borde de implosionar (?
+04:57:38	Martin Egea:	como cerras el proceso?
+04:57:45	[Tutora] Victoria Fuceneco:	control c
+04:57:47	Juan Manuel Roig Courtis:	hay que inicializar el watch-css
+04:57:49	[Profesor] Gonzalo Manoukian:	CTRL + C
+04:57:53	[Tutora] Victoria Fuceneco:	Exacto Juan
+04:58:12	Cristian Carignano:	Buena, lo revisa al toque
+04:58:17	[TUTOR] Agustin Ammazzagatti:	sisi
+04:58:49	Cristian Carignano:	ahi note que la barra de abajo marca "WATCH sass"  para cuando uno no esta seguro de si corrió el comando o no
+04:58:58	Pablo Barrios:	uuu se perdió
+04:59:02	Pablo Barrios:	pisa todo
+04:59:30	Santiago Quintas:	entonces lo ideal en un proyecto nuevo es crear un css vacio y solo manejar sass?
+04:59:39	[TUTOR] Leandro Martin:	Claro Santi
+04:59:41	[Tutora] María Clara Molina y Vedia:	Así tal cual
+04:59:43	Mauro Lulkin:	claro
+04:59:49	Juan Manuel Roig Courtis:	por las dudas, al index deberíamos linkear el css que esta pareado con el scss, no?
+04:59:58	[TUTOR] Leandro Martin:	Si Juan
+04:59:58	[Tutora] María Clara Molina y Vedia:	Siiii
+05:00:07	[Tutora] María Clara Molina y Vedia:	Brillante conclusión
+05:00:09	Nicolas Luciuk:	pasamos todo lo que tenemos en el css normal al scss??
+05:00:13	Ivan otta:	scss
+05:00:13	Ezequiel Eandi:	el css
+05:00:13	Pablo Barrios:	el css
+05:00:14	Cristian Carignano:	el styles.css
+05:00:15	Andrea Gonzalez:	el css
+05:00:15	Juan Manuel Roig Courtis:	jajajaja gracias mari!
+05:00:18	Martin Egea:	el css
+05:00:18	Lucas Soria:	css
+05:00:19	Gonzalo Bazzani:	css
+05:00:20	Santiago Quintas:	ambos?
+05:00:20	Norman Silva Zeta:	el css nuevo?
+05:00:21	Rubén Pérez Jiménez:	styles.scss
+05:00:21	Pablo Barrios:	css
+05:00:22	[TUTOR] Agustin Ammazzagatti:	sii
+05:00:26	Mauro Lulkin:	esta clase es maravillosa... todos cracs
+05:00:31	Rubén Pérez Jiménez:	ahh cierto. styles.css
+05:00:42	Norman Silva Zeta:	pero el nuevo css
+05:00:43	[TUTOR] Agustin Ammazzagatti:	así es
+05:00:52	Norman Silva Zeta:	y dónde queda el anterior css que hicimos?
+05:01:00	[TUTOR] Agustin Ammazzagatti:	donde estaba
+05:01:04	Cristian Carignano:	Deberia pasar mi viejo css al scss y crear un nuevo css?
+05:01:05	[TUTOR] Agustin Ammazzagatti:	pero sin el link
+05:01:08	[Tutora] María Clara Molina y Vedia:	Lo tenes en otro archivo así que sigue ahí
+05:01:08	Juan Manuel Roig Courtis:	en el baúl de los recuerdos (?
+05:01:09	Norman Silva Zeta:	no, pero para que nos sirvió?
+05:01:09	Nicolas Luciuk:	pasamos todo lo que tenemos en css al nuevo scss??
+05:01:19	[Tutora] Victoria Fuceneco:	Claro Cris
+05:01:31	[TUTOR] Agustin Ammazzagatti:	después pueden borrar el viejo css
+05:01:32	Juan Manuel Roig Courtis:	o sea que ahora podríamos copiar todo nuestro css viejo y pasarlo al SASS sin drama, no?
+05:01:41	Cristian Carignano:	Listo joyita
+05:01:55	Marcos Anislado:	Si por error borras todo lo de css se vuelve a refrescar con watch ?
+05:01:58	[TUTOR] Agustin Ammazzagatti:	si Juan
+05:02:06	[Tutora] María Clara Molina y Vedia:	pero para aprovechar la estructura de scss no copien y peguen
+05:02:09	Cristian Carignano:	aunque supongo que va a ser mejor siempre usar las sintaxis de scss
+05:02:18	Martin Egea:	hay que pushear todo?
+05:02:22	[Tutor] Matias Bellezze:	Siempre es mucho mejor usar scss
+05:02:25	[Tutora] María Clara Molina y Vedia:	nooo aún no hagan push
+05:02:36	Cristian Carignano:	jajajajjajaja
+05:02:40	Marcos Anislado:	👍
+05:02:41	Tiago Solis:	Una pregunta Gonza, si nosotros queremos agregar cositas de scss a nuestro proyecto… tenemos que subr el archivo.scss o con subir el archivo.css modificado y linkeado esta bien
+05:02:41	Nicolas Luciuk:	nos vamos corriendo
+05:02:41	Cristian Carignano:	Somos como niños
+05:02:46	Pablo Barrios:	chauuuuuuuuuuuuuuuuuu
+05:02:46	[TUTOR] Agustin Ammazzagatti:	a tomar aire fresco
+05:03:04	Andrea Gonzalez:	jajaja
+05:03:05	Norman Silva Zeta:	osea el anterior css que hicimos ya no nos va servir, solo el nuevo css?
+05:03:09	Javier Fornari:	Todavía no logro comprender que diferencia o agregado de valor me da scss y hacer el css manualmente.
+05:03:20	[Tutora] María Clara Molina y Vedia:	No hagan nada ni piensen nada todavía
+05:03:23	Cristian Carignano:	Las sintaxis de scss vamos a verlas despues del break
+05:03:26	Cristian Carignano:	No toquemos nada(?
+05:03:28	[Tutora] María Clara Molina y Vedia:	tomen agua y piensen el perritos
+05:03:28	Norman Silva Zeta:	exacto
+05:03:30	Santiago Quintas:	modo zen
+05:03:30	[TUTOR] Agustin Ammazzagatti:	Ya veremos las ventajas de scss
+05:03:31	Norman Silva Zeta:	aún no entiendo para que es
+05:03:32	Pablo Barrios:	tanto lio para que?? jaja
+05:03:32	Norman Silva Zeta:	vale
+05:03:32	Martin Egea:	prendo fuego mi css viejo
+05:03:33	Mauro Lulkin:	vayam tranquis a hervir agua por hora
+05:03:34	Norman Silva Zeta:	vale
+05:03:35	Mauro Lulkin:	por ahora
+05:03:38	Lucas Soria:	saca la mano de ahí carajo
+05:03:42	[TUTOR] Agustin Ammazzagatti:	jajaajaj
+05:03:44	[Tutora] Loana Torres:	jajaja
+05:03:45	Mauro Lulkin:	ajajajaaja
+05:03:47	Andrea Gonzalez:	jajajaja
+05:03:52	Pablo Barrios:	a comprar un par de ojos nuevos en MercadoLibre....
+05:03:55	Norman Silva Zeta:	jajajaja
+05:03:57	Oriana Gomez:	jajjajajaj
+05:03:58	Mauro Lulkin:	you shall not passsss
+05:04:08	Lucas Soria:	le voy a pegar al perro
+05:04:11	Mauro Lulkin:	kendrick lamar papaaaaaaaaa
+05:04:17	[TUTOR] Agustin Ammazzagatti:	yee
+05:04:23	Oriana Gomez:	quiero el nombre de la playlist jajaj
+05:04:23	Javier Fornari:	Si, justo la música the WTF!
+05:10:16	Cristian Carignano:	siempre sincro
+05:10:40	Pablo Barrios:	estoy
+05:10:41	Matias Flores:	toy
+05:10:42	Ezequiel Eandi:	estoyy
+05:10:44	Gonzalo Bazzani:	👍🏻
+05:10:47	Matias Flores:	toy story
+05:10:47	Cristian Carignano:	Aca
+05:10:47	Lucas Soria:	estoy
+05:10:47	Pablo Barrios:	porqué sassss?
+05:10:51	Tiago Solis:	tamo aca comiendo pollito
+05:10:51	Martin Egea:	estamos
+05:10:53	Andrea Gonzalez:	seee
+05:10:55	Cristian Carignano:	no soy caniche pero toy
+05:11:01	Matias Flores:	jua
+05:11:09	Santiago Quintas:	brutal
+05:14:30	Rubén Pérez Jiménez:	clap clap
+05:14:38	Lucas Soria:	como los media ?
+05:14:54	Pablo Barrios:	mas prolijo
+05:15:00	[Tutora] Victoria Fuceneco:	es bellísima esa sintaxis
+05:15:00	[TUTOR] Agustin Ammazzagatti:	sii
+05:15:20	Cristian Carignano:	lo anido normalmente como en css
+05:15:22	Cristian Carignano:	?
+05:15:23	Andrea Gonzalez:	te ahorra valisoos segundos
+05:15:41	[Tutora] Victoria Fuceneco:	mucho las legible
+05:15:43	[Tutora] Victoria Fuceneco:	e identificable
+05:15:49	Andrea Gonzalez:	re
+05:15:52	[TUTOR] Leandro Martin:	biutifull
+05:15:55	Pablo Barrios:	dentro del ul
+05:15:55	Juan Manuel Roig Courtis:	dentro de ul
+05:15:56	Andrea Gonzalez:	anidarlo en ul
+05:16:01	Rubén Pérez Jiménez:	dentro ul
+05:16:15	Juan Manuel Roig Courtis:	de hecho se ve mejor las relacoines padre hijo
+05:16:17	Juan Manuel Roig Courtis:	no?
+05:16:21	[Tutora] Victoria Fuceneco:	Exacto
+05:16:23	[Tutora] María Clara Molina y Vedia:	Exactamente
+05:16:24	[TUTOR] Leandro Martin:	Si Juan es mas legible
+05:16:24	[TUTOR] Agustin Ammazzagatti:	exacto
+05:16:29	Nicolas Luciuk:	justificación de porque va adentro?
+05:16:30	[Tutora] Victoria Fuceneco:	Literalmente podes anidar DENTRO del padre
+05:16:34	[Tutor] Matias Bellezze:	alabemos sass
+05:16:39	Marcos Anislado:	En css hay format document para que indente ?
+05:16:50	Juan Manuel Roig Courtis:	Desde hoy, devotos de SASS
+05:16:58	Rubén Pérez Jiménez:	mejor estructura
+05:17:03	Andrea Gonzalez:	queda parecido al html y después para llamar clases es mas fácil de encontrar
+05:17:12	Martin Egea:	y si tengo una clase adentro?
+05:17:18	Ezequiel Eandi:	y no se puede acomodar el css?? porque esta corrido. o no importa?
+05:17:30	[Tutora] María Clara Molina y Vedia:	Nono, el css lo dejan así
+05:17:36	Cristian Carignano:	Caso Bootstrap esto mucho no nos sirve no?
+05:17:42	Lucio Caruso Stefanini:	básicamente copias el orden del HTML pero con la estructura del scss
+05:17:44	Nicolas Luciuk:	osea el header en scss engloba todo?
+05:18:08	Pablo Barrios:	entonces 100% tocamos solo el SCSS a partir de ahora no?
+05:18:13	[Tutora] Victoria Fuceneco:	Sep
+05:18:15	Juan Manuel Roig Courtis:	Misma pregunta que Cris, si queremos trabajar con Bootstrap y SASS como hacemos?
+05:18:15	Norman Silva Zeta:	osea es como un HTML pero en el css
+05:18:17	[TUTOR] Leandro Martin:	Si Pablo
+05:18:28	Pablo Barrios:	👍
+05:19:24	[TUTOR] Leandro Martin:	Esto recien comienza
+05:19:38	Tiago Solis:	me encanto sass
+05:20:09	[Profesor] Gonzalo Manoukian:	&
+05:22:55	Juan Manuel Roig Courtis:	yes sir
+05:22:59	Juan Manuel Roig Courtis:	el famoso camelcase
+05:22:59	Juan Manuel Roig Courtis:	jajaja
+05:23:33	[Tutora] Yanina Andregnette:	Les deje algunos links útiles para complementar y un conversor de css a scss que les va a venir bien ;)
+05:24:08	Juan Manuel Roig Courtis:	.headerMenuLogo
+05:24:12	Juan Manuel Roig Courtis:	?
+05:24:24	Gonzalo Bazzani:	son las distintas clases?
+05:24:32	Ivan otta:	logo es una class
+05:24:33	Andrea Gonzalez:	El símbolo reemplaza la palabra header
+05:24:54	[Tutora] María Clara Molina y Vedia:	no está guardado el css
+05:25:03	Juan Manuel Roig Courtis:	ah! headerMenu y headerLogo
+05:25:19	Norman Silva Zeta:	gracias Yan
+05:25:31	Andrea Gonzalez:	jajajajaja
+05:25:41	Lucas Soria:	gracias
+05:27:21	Martin Egea:	todo lo que aprendi en css se acaba de morir
+05:27:30	Juan Manuel Roig Courtis:	Ahora entiendo porque decían que no copiemos el css jajaja
+05:27:41	Juan Manuel Roig Courtis:	habría que reescribir todas los bem
+05:27:41	Pablo Barrios:	RIP css
+05:28:51	Andrea Gonzalez:	sip
+05:28:55	Pablo Barrios:	si
+05:28:56	Ezequiel Eandi:	sisi
+05:29:15	Lucas Soria:	en un comienzo, si !
+05:30:33	Mauro Lulkin:	F
+05:30:48	Javier Fornari:	uck?
+05:32:08	Juan Manuel Roig Courtis:	watch
+05:32:09	Nicolás Alejandro Padin Paez:	porque no está asociada en el json?
+05:32:15	Gonzalo Bazzani:	por que en la configuración no esta ese archivo
+05:32:20	Oriana Gomez:	no está escrito este scss en el json?
+05:33:51	[TUTOR] Leandro Martin:	Hermoso para tener todo bien prolijo y organizado
+05:34:25	Andrea Gonzalez:	tenia que hacer scroll para encontrar algo
+05:34:29	Florencia Alejandra Hernandez:	Entonces la función de import seria para trabajar de forma ordenada?
+05:34:42	Pablo Barrios:	se me ocurre por ejemplo si me traigo código css de un tercero, directamente le hago un import y pasa a mi css directo. En vez de copiar/pegar. Sobre todo si ese tercero genera en el futuro una modificación, directamente se importa el nuevo sin andar copiando/pegando. Algo asi, no?
+05:34:52	Ezequiel Eandi:	ufff es buenisimoo
+05:35:30	Lucio Caruso Stefanini:	osea que se puede importar una hoja de estilo sass de Bootstrap ?
+05:35:36	Marco De La Flor:	en css normal se puede utilizar import también, cierto?
+05:35:45	Andrea Gonzalez:	hermoso
+05:36:06	Nicolás Alejandro Padin Paez:	primero el código de header, y luego el de general
+05:36:06	Luciano Palacios Longo:	tendría que ir arriba para que no haya problemas
+05:36:13	Pablo Barrios:	primero pone lo de header y luego general.
+05:36:15	Nicolas Luciuk:	un repaso rapidito?
+05:36:16	Andrea Gonzalez:	jajajaja
+05:36:20	Andrea Gonzalez:	la cascading
+05:36:25	Juan Manuel Roig Courtis:	la cascada tiene que simil al archivo css que queremos tener, no?
+05:36:38	Pablo Barrios:	debería ir al reves en este caso
+05:36:52	Nicolás Alejandro Padin Paez:	se podría tener un scss para las mediaqueries entonces?
+05:37:20	Juan Manuel Roig Courtis:	al final
+05:37:20	Javier Fornari:	Al final.
+05:37:23	Andrea Gonzalez:	al final
+05:37:44	Nicolas Luciuk:	como creabas una carpeta para scss?
+05:38:01	Andrea Gonzalez:	is very biutiful
+05:38:28	Norman Silva Zeta:	pero las que estoy importando no está conectado al css style.css cierto?
+05:38:41	Norman Silva Zeta:	la que tendría que estár conectado es el style.scss
+05:39:12	[TUTOR] Leandro Martin:	No Norman, se importa todo en el scss pero el que linkeas es el .css
+05:39:45	Nicolas Luciuk:	podes mostrar como creaste una carpeta en scss?
+05:39:45	Norman Silva Zeta:	ah ya ya
+05:39:47	Norman Silva Zeta:	queda claro
+05:39:47	[Tutora] Yanina Andregnette:	Claro, lo que linkeamos es siempre el css
+05:39:55	[Tutora] Yanina Andregnette:	el scss solo va a pre procesar el css
+05:39:56	Andrea Gonzalez:	es lo mismo usar @import que @use?
+05:40:04	Cristian Carignano:	el watch
+05:40:15	[Tutora] Yanina Andregnette:	No Andrea, usamos import
+05:40:27	Andrea Gonzalez:	listooo
+05:40:27	Norman Silva Zeta:	si para cerrarlo
+05:41:07	[Tutora] Yanina Andregnette:	y los import, siempre arriba, como el import de la fuente de Google fonts
+05:41:10	Alexis López:	gwnrw mw twngo que ir...despues termino de verlo en la grabacion...saludso
+05:41:22	Alexis López:	saludos*
+05:41:37	Martin Egea:	profe despues muestre como commitiar todo
+05:42:20	Norman Silva Zeta:	en la línea 3 dice
+05:42:44	Andrea Gonzalez:	que bueno eso
+05:43:01	Lucas Soria:	ajajajajaj
+05:43:03	Pablo Barrios:	reiniciar la compu
+05:43:05	Norman Silva Zeta:	jajaja
+05:43:25	Rubén Pérez Jiménez:	no hay compiladores de HTML?
+05:43:28	Ezequiel Eandi:	Te marca solo errores de sintaxis??
+05:44:03	Nicolas Luciuk:	profe podes mostrar como creaste una carpeta en scss??? porque no llegue a ver
+05:44:47	Cristian Carignano:	En mi caso estoy pasando gran parte de mi web a Bootstrap, reemplazando el css propio, usaría el sass con algunas modificaciones que vaya a hacer y todo ok?
+05:45:00	Pablo Barrios:	como se comentaba en scss? igual que css?
+05:45:32	Nicolas Luciuk:	con el guion bajo si o si?
+05:45:50	Florencia Alejandra Hernandez:	Perdon no entiendo que pasa con nuestro archivo viejo de css
+05:45:52	[Tutor] Matias Bellezze:	Si Pablo!
+05:46:01	[Tutora] Yanina Andregnette:	Flor
+05:46:12	Florencia Alejandra Hernandez:	Ah okii
+05:46:19	Ezequiel Eandi:	y para subirlo a git, tengo que cerrar el proceso para poder escribir en la consola??
+05:46:23	[Tutora] Yanina Andregnette:	tu archivo css de siempre lo que tenes que hacer es copiar el código, convertirlo a sintaxis de scss y compilarlo
+05:46:29	[Tutora] Yanina Andregnette:	para que quede nuevamente en tu archivo css
+05:46:30	[Tutor] Matias Bellezze:	Se va modificando el archivo css
+05:46:53	Florencia Alejandra Hernandez:	Gracias!
+05:46:57	[Tutora] Yanina Andregnette:	no compilen en archivo scss vacio porque les va a borrar todo el css
+05:47:02	Nicolás Alejandro Padin Paez:	el de una línea no pasó al css?
+05:47:38	Lucas Soria:	😍
+05:47:43	[Tutora] Yanina Andregnette:	https://beautifytools.com/css-to-scss-converter.php
+05:47:49	Pablo Barrios:	Yani, pero es gigante el CSS actual. para lo que tenemos hasta ahora podemos pegarlo como está en el scss y lo nuevo escribirlo en scss no?
+05:47:55	[Tutora] Yanina Andregnette:	Aca pueden convertir el código asi no tiene que hacerlo manualmente
+05:48:01	[Tutora] Yanina Andregnette:	tienen*
+05:48:20	[Tutora] Yanina Andregnette:	Ahi te pase Pablo
+05:48:29	[Tutora] Yanina Andregnette:	No es correcto usar sintaxis de css en un archivo scss
+05:48:36	[Tutora] Yanina Andregnette:	hay que respetar la sintaxis siempre
+05:48:51	[Tutora] Yanina Andregnette:	si no quieren hacerlo manual pueden usar el conversor
+05:49:16	Norman Silva Zeta:	Gracias Yan justo lo estaba probando
+05:49:18	Norman Silva Zeta:	queda bien
+05:49:22	Pablo Barrios:	Gracias Yani! menos mal que existe beautifultools!!
+05:49:26	[Tutora] Yanina Andregnette:	;) de nada!
+05:49:27	Oriana Gomez:	gracias por tanto yani jajaj
+05:49:42	Ezequiel Eandi:	Yan lo pasaste por slack al cobertor??
+05:49:50	[Tutora] Yanina Andregnette:	Sip
+05:49:54	[Tutora] Yanina Andregnette:	Esta en slack
+05:49:58	[Tutora] Yanina Andregnette:	ese es uno, hay muchos igual!
+05:50:08	[Tutora] Yanina Andregnette:	usen el que mas les guste, si googlean van a encontrar banda
+05:50:10	Ezequiel Eandi:	dale graciaaas
+05:50:18	Florencia Alejandra Hernandez:	Mil gracias!
+05:50:48	Andrea Gonzalez:	gracias!
+05:50:54	Martin Egea:	y en html tengo que cambiar el link
+05:50:59	Pablo Barrios:	nos vamos ya? me hierrrrvve la cabeza..
+05:51:33	Martin Egea:	necesito ver el commit jajaaja
+05:51:42	Martin Egea:	el push, algo
+05:52:37	Juan Manuel Roig Courtis:	es como nuestro root?
+05:52:39	Juan Manuel Roig Courtis:	en css
+05:52:46	Juan Manuel Roig Courtis:	que usábamos var(--etc)
+05:52:57	Santiago Quintas:	guardaste el color nomas
+05:54:46	Marcos Anislado:	El valor de una variable se puede modificar en diversos puntos ?
+05:54:50	Cristian Carignano:	$gradianttitulos
+05:54:59	Tiago Solis:	Le puedo agregar mas de unn estilo?
+05:55:17	Javier Fornari:	¿Se puede utilizar la variable y sumar o restar algo?
+05:55:32	Ezequiel Eandi:	y se puede poner dentro de $colorAzul, por ejemplo, un backgroun color:.....??
+05:55:33	[Tutor] Matias Bellezze:	No conviene modificarla Marcos, por lo general se define una variable y se usa para algo específico
+05:56:51	[TUTOR] Leandro Martin:	Eze ya lo vamos a ver eso
+05:57:07	Pablo Barrios:	o llegó el black friday  y queremos poner todo en Negro!!
+05:57:47	Andrea Gonzalez:	divino
+05:57:50	Cristian Carignano:	Fantastico (?
+05:58:14	[Tutora] María Clara Molina y Vedia:	el gitignore?
+05:58:19	Gonzalo Bazzani:	teniendo en cuenta que solo se utiliza el css compilado en el html, la carpeta scss iría a ".gitignore" al subirlo al repositorio??
+05:58:32	Marcos Anislado:	Entonces mas bien es un aconstante jeje
+05:58:41	[Tutor] Matias Bellezze:	No gonza, tiene que estar el scss
+05:58:50	[TUTOR] Agustin Ammazzagatti:	debe estar Gonza
+05:58:59	Gonzalo Bazzani:	aaa ok
+05:59:08	[TUTOR] Agustin Ammazzagatti:	por el momento solo agregamos el node modules
+05:59:09	[Tutor] Matias Bellezze:	Lo que no pueden subir es el node modules
+05:59:19	[Profesor] Gonzalo Manoukian:	.gitignore
+05:59:42	Cristian Carignano:	10/10
+06:00:53	Cristian Carignano:	.gitignore es una carpeta o un archivo?
+06:01:14	Nicolas Luciuk:	asi node_modules/?
+06:01:21	[TUTOR] Agustin Ammazzagatti:	sisi
+06:01:24	Pablo Barrios:	pero para el sitio a la vista del usuario no hacen falta subir los .scss no??
+06:02:00	Luiggi Marquez:	desafio
+06:02:01	Santiago Quintas:	ignoraba el proyecto entero*
+06:02:02	[TUTOR] Agustin Ammazzagatti:	ya pasé la asistencia hace un rato. Por si a alguno/a no le llegó :)
+06:02:08	[TUTOR] Agustin Ammazzagatti:	avise
+06:02:15	Cristian Carignano:	uff tire un git add. y parece una matrix jaja
+06:03:35	[Tutora] Yanina Andregnette:	Chicos/as no suban a GitHub la carpeta node_,modules
+06:03:38	[Tutor] Matias Bellezze:	valoreeeen
+06:03:41	[Tutor] Matias Bellezze:	comeeenteeenn
+06:03:46	Marco De La Flor:	y la pre entrega de ue va
+06:03:46	[Tutora] Victoria Fuceneco:	Eso valoren jaja
+06:03:47	[Tutora] Victoria Fuceneco:	:3
+06:03:48	Marco De La Flor:	?
+06:04:00	Marco De La Flor:	prfavor
+06:04:24	Cristian Carignano:	No se que hice mal, pero subio el node modulos
+06:04:39	Cristian Carignano:	habia colocado la ruta en .gitignore
+06:04:45	Marco De La Flor:	Bootstrap no es obligatorio?
+06:04:50	[TUTOR] Agustin Ammazzagatti:	No
+06:05:18	[TUTOR] Agustin Ammazzagatti:	favor de revisar que sea responsive para esta segunda entrega
+06:05:21	Cristian Selva:	mmm
+06:05:24	[TUTOR] Agustin Ammazzagatti:	el proyecto
+06:05:30	Marco De La Flor:	si si.. es que monte todo con css y adaptarlo a Bootstrap será mas engorroso
+06:05:32	Nicolas Luciuk:	todo?
+06:05:33	Andrea Gonzalez:	listo
+06:05:37	Cristian Carignano:	Por que motivo puede ser que se subio a pesar de colocar la ruta en .gitignore?
+06:05:44	[TUTOR] Agustin Ammazzagatti:	sii Nico
+06:05:56	[TUTOR] Agustin Ammazzagatti:	o casi casi todo
+06:05:59	Cristian Carignano:	Si lo puse tal cual
+06:06:05	Cristian Carignano:	en la carpeta donde esta el index
+06:06:12	[TUTOR] Leandro Martin:	Guardaste?
+06:06:16	[Tutora] Yanina Andregnette:	No hay que colocar # antes profe?
+06:06:26	[TUTOR] Agustin Ammazzagatti:	yo lo declaro sin #
+06:06:30	[Tutora] Yanina Andregnette:	ahh
+06:06:39	Cristian Carignano:	Si hay revise, se me quedo el carpeta scss
+06:06:44	[Tutora] Yanina Andregnette:	Ahora les busco un ejemplo de gitignore y lo subo al slack
+06:06:49	[Tutora] Yanina Andregnette:	asi pueden usar ese archivo
+06:06:52	[TUTOR] Agustin Ammazzagatti:	genial
+06:06:58	[Tutora] María Clara Molina y Vedia:	Lindo finde gente!
+06:07:00	[TUTOR] Agustin Ammazzagatti:	que sigan muy bien el finde
+06:07:00	Pablo Barrios:	listo. a dormir por favor!"
+06:07:02	[TUTOR] Agustin Ammazzagatti:	adiós!
+06:07:02	Mauricio Morales:	Hasta luego.
+06:07:03	[TUTOR] Leandro Martin:	Buen finde! Gracias!
+06:07:05	[Tutora] Yanina Andregnette:	Buen finde!
+06:07:06	Andrea Gonzalez:	Buen finde para todos!
+06:07:06	Florencia Alejandra Hernandez:	Buen findeee
+06:07:08	Nicolás Alejandro Padin Paez:	genial el tema nuevo, muchas gracias. Buen finde!
