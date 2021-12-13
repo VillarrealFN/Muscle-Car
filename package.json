@@ -1,0 +1,25 @@
+{
+  "name": "musclecar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "build-css": "node-sass --include-path scss scss/estilo.scss css/estiloscss.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VillarrealFN/Muscle-Car.git"
+  },
+  "author": "Villarreal Facundo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VillarrealFN/Muscle-Car/issues"
+  },
+  "homepage": "https://github.com/VillarrealFN/Muscle-Car#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.0",
+    "nodemon": "^2.0.15"
+  }
+}

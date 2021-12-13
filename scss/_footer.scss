@@ -1,0 +1,35 @@
+.footer {
+	margin-top: 2%;
+	background-color: #F6F6F6;
+	height: 20vh;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-areas: "logo marcas";
+}
+.footerLogo {
+	grid-area: logo;
+	display: flex;
+	justify-content: center;
+	img {
+		height: 25vh;
+	}
+}
+.footerMarcas {
+	grid-area: marcas;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	img {
+		margin-right: 4%;
+		height: 10vh;
+	}
+}
+.footerFord {
+	grid-area: ford;
+}
+.footerDodge {
+	grid-area: dodge;
+}
+.footerChevy {
+	grid-area: chevy;
+}
