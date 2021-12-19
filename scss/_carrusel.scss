@@ -15,3 +15,8 @@
     margin-bottom: 10%;
     height: 40vh;
 }
+
+.card {
+    @include dimension(40vw, 60vh);
+    
+}

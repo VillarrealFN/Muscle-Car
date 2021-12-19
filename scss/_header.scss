@@ -1,8 +1,18 @@
+.flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+@mixin dimension($ancho, $alto) {
+    width: $ancho;
+    height: $alto;
+}
+
 .header {
+	@include dimension(100vw, 26vh);
 	padding: 5 2%;
 	position: sticky;
-	height: 22vh;
-	width: 100;
 	background-color: #F6F6F6;
 }
 .headerNav {
@@ -26,24 +36,17 @@
 }
 .headerLogo {
 	grid-area: logo;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	@extend .flex;
 	width: 100%;
 	height: 21vh;
 	img {
 		width: 78%;
 		height: 45vh;
-		display: flex;
-		justify-content: center;
-		text-align: center;
 	}
 }
-.auto {
+.auto{
 	grid-area: auto;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	@extend .flex;
 	padding-top: 12%;
 	color: #F5EDED;
 }
